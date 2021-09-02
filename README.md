@@ -44,11 +44,23 @@ III. RESOLUCIÓN DE EJERCICIOS:
 
 1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?
 
+![image](https://user-images.githubusercontent.com/85263529/131863922-13fabd6d-13bd-4005-b8fd-63829937ce26.png)
 
-3. a. ¿Que significa valor instantaneo?
+El voltaje de ca es aquel cuya polaridad varia periódicamente entre positiva y negativa. La corriente de ca es aquella cuya dirección varia periódicamente.
+
+
+
+3. a. ¿Que significa valor instantáneo?
+
+La magnitud de una forma de onda (tal como voltaje o corriente) en cualquier instante. 
 
 
 b. Para la figura 15-74, determine los voltajes instantaneos en t _ 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
+
+![image](https://user-images.githubusercontent.com/85263529/131864091-792b877e-8cbc-433c-a58b-704e92b31504.png)
+
+0, 10, 20, 20, 20, 0, -20, -20, 0 (todos en V) (por deducción de la gráfica).
+
 
 15-3 Convenciones de voltaje y corriente para ca
 
