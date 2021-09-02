@@ -36,6 +36,81 @@ II. MARCO TEÓRICO:
 
 III. RESOLUCIÓN DE EJERCICIOS:
 
+15-1 Introducción
+
+1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?
+
+
+3. a. ¿Que significa valor instantaneo?
+
+
+b. Para la figura 15-74, determine los voltajes instantaneos en t _ 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
+
+15-3 Convenciones de voltaje y corriente para ca
+
+5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t _ 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+
+15-4 Frecuencia, periodo, amplitud y valor pico
+
+7. Para cada uno de los siguientes, determine la frecuencia:
+
+a. T _ 0.5 s
+
+b. T _ 100 s
+
+c. 5T _ 80 _s
+
+9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
+
+11. ¿Cual es el voltaje pico a pico para la figura 15-77? ¿Cual es la corriente pico a pico de la figura 15-78?
+
+13. ¿A traves de cuantos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+
+15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 _0.25T2 y f1 _ 10 kHz, ¿cuales son los valores de T1, T2 y f2?
+
+15-5 Relaciones angular y gráfica paras las ondas seno
+
+17. Dado el voltaje v _ Vm sen a. Si Vm _ 240 V, ¿que valor tiene v cuando a _ 37_?
+
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando a _ 150_. ¿Que valor tiene Vm?
+
+21. Convierta los siguientes angulos de grados a radianes:
+
+a. 10_ d. 150_
+
+b. 25_ e. 350_
+
+c. 80_ f. 620_
+
+23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t _ 30, 75, 140 y 315 ms.
+
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t _ 5 _s. Determine Vm y dibuje la forma de onda.
+
+15-6 Voltajes y corrientes como funciones del tiempo
+
+27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
+
+a. T _ 100 ns d. periodo _ 20 ms
+
+b. f _ 30 Hz e. 5 periodos en 20 ms
+
+c. 100 ciclos en 4 s
+
+29. Determine las ecuaciones para las ondas seno con lo siguiente:
+
+a. Vm _ 170 V, f _ 60 Hz c. T _ 120 _s, v _ 10 V en t _ 12 _s
+
+b. Im _ 40 _A, T _ 10 ms
+
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T _ 50 ms. Determine su ecuacion.
+
+33. Dada i _ 47 sen 8260t mA, determine la corriente cuando t _ 0 s, 80, 410 y 1200 _s.
+
+35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la
+fase del angulo en grados.
+
+
+
 21.- Para la figura 16-53, Vm = 10 V e Im =  5 A. Para cada expresión, determine la cantidad solicitada.
 
 ![imagen](https://user-images.githubusercontent.com/85263529/131796008-ae1ae85f-9135-4cb5-a5f8-d7d7f7731240.png)
