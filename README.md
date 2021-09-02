@@ -18,12 +18,17 @@ TEMA:
 
 I. OBJETIVOS:
 
-Generales:
+General:
 
-
+Identificar las capacidades de la corriente alterna y la función de los números complejos en la búsqueda de la resolución de circuitos conectados a una fuente de corriente de dirección variable.
 
 Específicos:
 
+- Analizar la resolución de circuitos con voltajes y corrientes en forma polar y rectangular con el uso de números complejos.
+
+- Calcular los circuitos propuestos en las unidades a estudiar.
+
+- Establecer soluciones y ondas resultantes en circuitos con corriente alterna.
 
 
 II. MARCO TEÓRICO:
@@ -31,12 +36,6 @@ II. MARCO TEÓRICO:
 Capítulo 16:
 
 ![image](https://user-images.githubusercontent.com/85263529/131859556-3af15581-2478-4bb9-a873-3509e8c5fb3d.png)
-
-
-
-
-
-
 
 
 III. RESOLUCIÓN DE EJERCICIOS:
@@ -242,6 +241,10 @@ IV. VIDEO
 
 
 V. CONCLUSIONES
+
+El trabajo realizado para la resolución del deber ha sido muy provechosa, ya que en primer lugar, se ha practicado sobre los conceptos de frecuencia, periodo, amplitud y valor pico, ademas una introduccion a los fasores, asi mismo los elementos R, L y C y el concepto de impedancia.
+
+Se expreso los valores de voltaje y corriente por medio de numeros complejos de la misma manera resolver voltajes y corrientes en circuitos simples de ac mediante el concepto de impedancia. Se ha cumplido con los objetivos propuestos para este trabajo.
 
 
 
