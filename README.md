@@ -28,6 +28,11 @@ Específicos:
 
 II. MARCO TEÓRICO:
 
+Capítulo 16:
+
+![image](https://user-images.githubusercontent.com/85263529/131859556-3af15581-2478-4bb9-a873-3509e8c5fb3d.png)
+
+
 
 
 
