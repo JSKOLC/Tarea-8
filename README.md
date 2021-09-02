@@ -40,6 +40,233 @@ Capítulo 16:
 
 III. RESOLUCIÓN DE EJERCICIOS:
 
+
+
+
+
+
+
+37. Dada v 5 sen(wt +45grados).
+
+
+ Si q 20p rad s, ¿qué valor tiene v cuando t 20, 75 y 90 ms?
+ 
+ 
+El valor de v en t = 20ms este dado por:
+
+v = 5 sen(3600º/s×20 + 45º)
+
+v = 5 sen(72º+ 45º)
+
+v = 5 sen(117º)
+
+v = 4.46 v
+
+El valor de v en t = 75ms esta dado por:
+
+v = 5 sen (3600º/s×75 + 45º)
+
+v = 5 sen (270º+ 45º)
+
+
+v = 5 sen (315º)
+
+v = -3.54V
+
+El valor de v en t=90ms esta dado por:
+
+v = 5 sen (3600º/s×90 + 45º)
+
+v = 5 sen (324º+ 45º)
+
+v = 5 sen (369º)
+
+v = 0.782V
+
+
+
+39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.
+ 
+![image](https://user-images.githubusercontent.com/85263529/131869185-b49d3503-2d2f-401b-8107-c964cc1cad03.png)
+
+
+V-m = 100V
+\theta = 90°-54°
+\theta = 36°
+Tomando en cuenta el tiempo que toma completar la rotación de 360° es dado por:
+
+![image](https://user-images.githubusercontent.com/85263529/131869289-2ccb9cd4-c3e5-43b8-966e-b06bc4b4786c.png)
+
+v = V_msen(wt-\theta)
+v = 100sen(3491t+36°)V
+
+41.- Dada v = 30 sen(wt-45°) donde w = 40π rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V?
+¿En qué momento alcanza 23 V y -23 V?
+
+•	Siendo t = 0 s:
+
+v = 30sen(0-45°)
+
+v = -21.213 V
+
+w = 40π rad/s
+
+w = 7200°/s
+
+t = 6.25ms
+
+•	Siendo t = 6.25ms :
+
+•	
+v = 30sen(-45°+45°)
+
+v = 0 V
+
+Dibujando la forma de onda:
+
+![image](https://user-images.githubusercontent.com/85263529/131869427-1fb13c34-6271-4e93-8b5e-7d3e8f247326.png)
+
+![image](https://user-images.githubusercontent.com/85263529/131869548-b0c26746-e8ab-46c5-8c4b-5e64dd898a95.png)
+
+![image](https://user-images.githubusercontent.com/85263529/131869655-8ed7e293-ef37-4a21-97af-3909bd25d995.png)
+
+
+
+15-7 Introducción a los fasores
+43.- Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y
+qué forma de onda está adelantada.
+
+a)
+
+v = 100sen(wt)
+
+i = 80sen(wt+20°)
+
+
+![image](https://user-images.githubusercontent.com/85263529/131869798-2118cd99-13d0-430c-9dcb-2048f6d84e5c.png)
+
+
+b)
+
+V1 = 200sen(wt-30°)
+
+V2 = 150sen(wt-30°)
+
+![image](https://user-images.githubusercontent.com/85263529/131870003-7697454f-97da-4ab0-8927-dd8ad67e287d.png)
+
+c)
+
+i1 = 40sen(wt+30°)
+
+i2 = 50sen(wt-20°)
+
+![image](https://user-images.githubusercontent.com/85263529/131870186-e2e0e2a0-cb13-4f7b-bc32-4558000fa4cb.png)
+
+
+d) 
+
+v = 100sen(wt-140°)
+
+
+i = 80sen(wt-160°)
+
+![image](https://user-images.githubusercontent.com/85263529/131870321-321d76ee-dbfd-42cb-adbe-c12de2df51d7.png)
+
+45.- Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
+
+•	Enunciado:
+
+
+![image](https://user-images.githubusercontent.com/85263529/131870387-abea8f10-70c2-437e-b3be-044fa3de44d0.png)
+
+•	Desarrollo:
+
+V1 = Asen(wt - 30°)
+
+V2 = Asen(wt - 120°)
+
+![image](https://user-images.githubusercontent.com/85263529/131870622-b0b8f8a8-78dd-47e8-b807-331d47a00d64.png)
+
+
+•	Desarrollo:
+
+V1 = Asen(wt + 60°)
+
+V2 = Asen(wt - 180°)
+
+Aquí podemos observar que A esta retrasada 150° con respecto a B.
+
+47.- ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+
+a. i = 5 sen wt
+
+•	Considerando 2 medias ondas:
+
+iprom = 0.637(5)
+
+iprom = 3.18 A
+
+b. i = 40 cos wt
+
+•	Considerando 2 medias ondas:
+
+
+iprom = 0.637(40)
+
+iprom = 25.48 A
+
+c. v = 400 sen(wt + 30°)
+
+•	Considerando 2 medias ondas:
+Vprom = 0.637(400)
+
+Vprom = 254.8 v
+
+d. v = 20 cos 2wt
+
+•	Considerando 2 medias ondas:
+
+Vprom = 0.637(20)
+
+Vprom = 12.74 v
+
+
+![image](https://user-images.githubusercontent.com/85263529/131870897-0d8058c6-21f9-4395-9d84-d6e2798a334f.png)
+
+
+49.- Calcule Iprom o Vprom para las formas de onda de la figura 15-88.
+
+•	Figura a:
+
+![image](https://user-images.githubusercontent.com/85263529/131870956-3b21b659-f8a9-4cb8-b485-01fb2e41dc2f.png)
+
+![image](https://user-images.githubusercontent.com/85263529/131871095-3e99fdfa-37bc-4965-bc3f-fb30fbdf7353.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/131871177-c35a216b-37b5-42da-970f-b626e34e4c28.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/131871272-fe6372cf-ea09-45bc-83fd-dd5ba6b555f1.png)
+
+51.- Para el circuito de la figura 15-90, e = 25 sen wt V y un periodo de T = 120 ms.
+
+![image](https://user-images.githubusercontent.com/85263529/131871336-ab6779af-28cb-45e0-9869-16a448b7da5a.png)
+
+
+a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
+
+![image](https://user-images.githubusercontent.com/85263529/131871390-282e1301-dea8-4685-b54c-13760e609f4c.png)
+
+
+
+
+
+
+
+
+
+
+
 15-1 Introducción
 
 1. ¿A que se refiere “voltaje de ca” y “corriente de ca”?
