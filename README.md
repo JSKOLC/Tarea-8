@@ -432,7 +432,96 @@ a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
 ![image](https://user-images.githubusercontent.com/85263529/131871390-282e1301-dea8-4685-b54c-13760e609f4c.png)
 
 
+7.- Reduzca cada corriente siguiente a forma polar: 
 
+a.\ 15-j6-\left[\frac{18\bot40+(12+j8)}{11+j11}\right]
+
+![imagen](https://user-images.githubusercontent.com/85263529/131879461-a40dae7e-7719-42a5-b089-3141bd25227c.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/131879541-22c76e12-8128-44ab-9efb-63b414bbcaaf.png)
+
+b. 21∠20°-j4136∠0°+1+j2-11∠40°
+
+![imagen](https://user-images.githubusercontent.com/85263529/131879696-eff72a72-0a13-4e96-a954-3ab202fe57cd.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/131879738-0903fd5c-6619-41c8-8be6-deb130da0bf4.png)
+
+c.\ 18⊥40-18∠-40°7+j12-16+j17+21∠-60°4
+
+![imagen](https://user-images.githubusercontent.com/85263529/131879885-ca519154-dbe4-4950-be15-5ab6af4a8af8.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/131879945-9c33ec86-d1ac-440f-af69-91284b4be12b.png)
+
+16-2 Números complejos en análisis de ca
+
+9.- Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880033-548b0f1d-ff5d-473d-acfe-01d124692c67.png)
+
+a.-
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880082-4b6a650f-1cc3-4471-8fad-b20e90c88d8d.png)
+
+b.- 
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880166-cb5c9301-9981-44da-9745-f14e3518c228.png)
+
+11.- Repita el problema 10 para. v=e_1-e_2 Dadoe_1=10senωt+30°V y e2=15senωt-20°V. Determine su
+suma v=e_1-e_2  a la manera del ejemplo 16-7, es decir:
+
+a. Convierta e1 y e2  a su forma fasorial
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880257-c9bc080b-f587-4461-9832-a4c02fab66aa.png)
+
+b. Determine V=E_1+E_2
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880368-50f56f95-fc63-4504-9def-0d2d3ec5bfc9.png)
+
+c. Convierta V al dominio del tiempo.
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880423-9cfc5eb4-c914-4819-a307-64331155c5f9.png)
+
+d. Grafique e1, e2 y v de acuerdo con la figura 16-13.
+
+13.- Para la figura 16-50, i_1=25\ sen\ (\omega t\ +36^0)\ mA\ e i_2=\ 40\ cos\ (\omega t\ -{10}^0)\ mA. 
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880524-ec6bde91-5ca6-4b57-9731-4f45c16afbdf.png)
+
+ a.  Determine los fasores I1, I2 e IT.
+
+ b.  Determine la ecuación para iT en el dominio del tiempo.
+ 
+ 15.- Para la figura 16-18, i1 = 7 sen wt mA, i2 = 4 sen (wt - 90) mA e i3 = 6 sen (wt - 90) mA.
+ 
+ ![imagen](https://user-images.githubusercontent.com/85263529/131880659-5a003ef1-fb72-4a86-8c3e-faa38460b737.png)
+ 
+ a. Determine los fasores I1, I2, I3 e IT
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880787-a80252dc-a5e3-49d1-8639-469989236495.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880838-2767f561-a8e0-4bc6-a474-90f6923917c2.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880892-428369f6-7ead-4756-ad1e-4a87da0c96c7.png)
+
+b. Determine la ecuación para iT en el dominio del tiempo
+
+![imagen](https://user-images.githubusercontent.com/85263529/131880954-8ddf9b34-f3c1-4553-a3a7-25e9a8f74b85.png)
+
+17.- Para la figura 16-52, R =12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje 
+
+![imagen](https://user-images.githubusercontent.com/85263529/131881050-228d4626-5e7a-4548-9edd-c31c35eea5fe.png)
+
+19.- Dos resistores R1 = 10 kΩ y R2 =12.5 kΩ están en serie. Si i = 14.7 sen (wt + 39) mA, 
+
+a. ¿Cuánto valen vR1 y vR2?
+
+![imagen](https://user-images.githubusercontent.com/85263529/131881209-4e763964-9ead-4b9b-addf-e93e2ffdef72.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/131881282-91301577-b8d7-478f-a56d-911b7ee14e4a.png)
+
+b. Calcule VT =VR1 + VR2 
+
+![imagen](https://user-images.githubusercontent.com/85263529/131881376-fcc1afd8-0108-4d14-a400-ab465a8ad4e4.png)
 
 21.- Para la figura 16-53, Vm = 10 V e Im =  5 A. Para cada expresión, determine la cantidad solicitada.
 
