@@ -33,6 +33,11 @@ Específicos:
 
 II. MARCO TEÓRICO:
 
+Capitulo 15:
+
+![image](https://user-images.githubusercontent.com/85263529/131883368-1a35aefe-6d88-4c8f-ab42-d348cf351a7c.png)
+
+
 Capítulo 16:
 
 ![image](https://user-images.githubusercontent.com/85263529/131859556-3af15581-2478-4bb9-a873-3509e8c5fb3d.png)
@@ -123,6 +128,9 @@ I.p = 6mA
 
 
 15-5 Relaciones angular y gráfica paras las ondas seno
+
+![WhatsApp Image 2021-09-02 at 11 30 55](https://user-images.githubusercontent.com/85263529/131883580-9e403379-baef-4660-b3f6-9e7cbabe0071.jpeg)
+
 
 17. Dado el voltaje v _ Vm sen a. Si Vm _ 240 V, ¿que valor tiene v cuando a _ 37_?
 
@@ -430,6 +438,117 @@ Vprom = 12.74 v
 a. Dibuje el voltaje v(t) coloque en el eje una escala en milisegundos.
 
 ![image](https://user-images.githubusercontent.com/85263529/131871390-282e1301-dea8-4685-b54c-13760e609f4c.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/131881849-fcd43b88-9152-4c9a-ba52-1441007b9123.png)
+
+![image](https://user-images.githubusercontent.com/85263529/131881940-97ca9348-295c-435a-ab19-ff8bc53571d0.png)
+
+53.- Utilice cálculo, para encontrar el valor promedio para la figura 15-91.
+
+![image](https://user-images.githubusercontent.com/85263529/131882015-3f1ba48a-c646-41b2-af31-d3a89fc3b8ca.png)
+
+
+•	Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85263529/131882078-9c5ecfda-0f1c-4a67-b1b4-9e267e8718fc.png)
+
+
+15-9 Valores efectivos (rms)
+
+55.- Determine los valores rms para cada uno de los siguientes casos:
+
+a. Una batería de 12 V
+
+
+Vef = 12*sqrt(2)
+
+
+Vef = 8.48 v
+
+b. -24 sen(wt + 73°) mA
+
+Vef = -24*sqrt(2)
+
+Vef = -16.96 v
+
+c. 10 + 24 sen wt V
+
+Vef = 24*sqrt(2)
+
+Vef = 19.96 v
+
+d. 45 - 27 cos 2 wt V
+
+Vef = -27*sqrt(2)
+
+Vef = -19.08 v
+
+57.- Determine los valores de la raíz cuadrática media para
+
+
+a. i = 3 + sqrt(2)(4) sen(wt + 44°) mA
+
+
+![image](https://user-images.githubusercontent.com/85263529/131882441-d4d48eb5-2e52-458c-9441-56946e422419.png)
+
+
+59.- Calcule los valores rms para las formas de onda de la figura 15-92.
+
+•	Enunciado:
+
+![image](https://user-images.githubusercontent.com/85263529/131882496-9c4573ce-bfb0-4f80-a555-7deb31f78a24.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/131882629-40cc4803-c5f3-4d2c-8d77-8e9eb7d7ed38.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/131882700-37f9e6ff-9c65-4575-a426-9d5625b73586.png)
+
+
+61.- Determine los valores rms para la forma de onda de la figura 15-94. ¿Por qué es igual que el de una batería de 24 V?
+
+![image](https://user-images.githubusercontent.com/85263529/131882797-842dec4f-f2b6-4ae1-bcf5-b4555b3bd4dc.png)
+
+63.- Repita el problema 62, use cálculo para manejar la porción triangular.
+
+![image](https://user-images.githubusercontent.com/85263529/131882888-8d25cec6-4dae-48f7-bcfa-27c1d5706be4.png)
+
+
+3.2. CAPITULO 16
+
+16-1 Repaso de números complejos
+
+
+
+1.- Convierta cada uno de los siguientes números a forma polar:
+
+a. 5 + j12
+
+![image](https://user-images.githubusercontent.com/85263529/131882983-11f2df7a-85c8-422f-af8a-a038380507fc.png)
+
+![image](https://user-images.githubusercontent.com/85263529/131883051-05a85180-781e-4eb1-b51f-d97f724c0196.png)
+
+
+3.- Grafique cada uno de los siguientes valores en el plano complejo:
+
+a. 4 + j6
+
+![image](https://user-images.githubusercontent.com/85263529/131883111-f20082bf-f67b-447d-b3a4-f2363168da50.png)
+
+b. j4
+
+![image](https://user-images.githubusercontent.com/85263529/131883160-3a23768a-29d4-47b8-af8a-7053c3d2ae4b.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/131883255-f3aebe6c-9c7a-4d33-839a-f086d3546fe8.png)
+
+
+5.- Exprese sus respuestas en forma rectangular.
+
+
+![image](https://user-images.githubusercontent.com/85263529/131883292-81fa8f97-fc0f-40b4-9913-1c12549f57e7.png)
+
 
 
 7.- Reduzca cada corriente siguiente a forma polar: 
